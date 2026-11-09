@@ -1,6 +1,6 @@
 # Ayman Oulhouf
 
-Most of my work is desktop and mobile applications: C# / .NET WinForms on Windows, and Kotlin with Jetpack Compose on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
+Most of my work is in desktop and mobile apps: C# / .NET WinForms on Windows, and Kotlin with Jetpack Compose on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
 
 Larache, Morocco · [aymanoulhouf@gmail.com](mailto:aymanoulhouf@gmail.com) · [github.com/AYMANOULHOUF](https://github.com/AYMANOULHOUF)
 
@@ -24,10 +24,10 @@ I like the whole path of an application: the data model, the API, the interface,
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Go-57606A?style=flat-square&logo=go&logoColor=white" alt="Go" height="22">
-<img src="https://img.shields.io/badge/Kotlin-57606A?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" height="22">
-<img src="https://img.shields.io/badge/JavaScript-57606A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="22">
 <img src="https://img.shields.io/badge/C%23-57606A?style=flat-square&logo=dotnet&logoColor=white" alt="C#" height="22">
+<img src="https://img.shields.io/badge/Kotlin-57606A?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" height="22">
+<img src="https://img.shields.io/badge/Go-57606A?style=flat-square&logo=go&logoColor=white" alt="Go" height="22">
+<img src="https://img.shields.io/badge/JavaScript-57606A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="22">
 <img src="https://img.shields.io/badge/SQL-57606A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22">
 <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-57606A?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS" height="22">
 
