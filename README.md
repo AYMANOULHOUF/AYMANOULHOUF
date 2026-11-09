@@ -1,6 +1,6 @@
 # Ayman Oulhouf
 
-Software developer working across backend, web, and Android. Most of my work is Go and PostgreSQL on the server, React on the web, and Kotlin on Android. Right now I'm building [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
+Most of my work is desktop and mobile applications: C# / .NET WinForms on Windows, and Kotlin with Jetpack Compose on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
 
 Larache, Morocco · [aymanoulhouf@gmail.com](mailto:aymanoulhouf@gmail.com) · [github.com/AYMANOULHOUF](https://github.com/AYMANOULHOUF)
 
@@ -8,14 +8,15 @@ Larache, Morocco · [aymanoulhouf@gmail.com](mailto:aymanoulhouf@gmail.com) · [
 
 ## About Me
 
-I came into development through **BTS DAI** (*Développement d'Applications Informatiques*), where I worked with C#, SQL, Python, C, and web fundamentals. Most of what I know now comes from building projects on my own and reading a lot of other people's code.
+I came into development through **BTS DAI** (*Développement d'Applications Informatiques*), where I worked with C#, SQL, Python, C, and web fundamentals, and built my first desktop applications in .NET WinForms. Most of what I know now comes from building projects on my own and reading a lot of other people's code.
 
-I like the whole path of a feature: designing the schema, writing the API, building the interface, then getting it deployed. TrackStack is where most of that comes together at the moment. I tend to prefer software that is small enough to understand and self-hosted enough to keep running without a vendor.
+I like the whole path of an application: the data model, the API, the interface, and the build. Most of my projects start as a desktop or Android app and grow a backend when they need one — TrackStack is the clearest example.
 
 - Based in Larache, Morocco
-- Main stack: Go, React, Kotlin, C#, PostgreSQL
-- Interested in backend systems, APIs, database design, and Android
-- Open to collaboration on Go, React, and Android projects
+- Desktop — C# / .NET WinForms
+- Mobile — Kotlin, Jetpack Compose, Android
+- Backend when an app needs it — Go, PostgreSQL, REST APIs
+- Open to collaboration on desktop, Android, and Go projects
 
 ---
 
@@ -30,6 +31,15 @@ I like the whole path of a feature: designing the schema, writing the API, build
 <img src="https://img.shields.io/badge/SQL-57606A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22">
 <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-57606A?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS" height="22">
 
+**Desktop**
+
+<img src="https://img.shields.io/badge/.NET-57606A?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="22">
+
+**Mobile**
+
+<img src="https://img.shields.io/badge/Android-57606A?style=flat-square&logo=android&logoColor=white" alt="Android" height="22">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-57606A?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" height="22">
+
 **Web**
 
 <img src="https://img.shields.io/badge/React-57606A?style=flat-square&logo=react&logoColor=white" alt="React" height="22">
@@ -39,23 +49,17 @@ I like the whole path of a feature: designing the schema, writing the API, build
 
 <img src="https://img.shields.io/badge/PostgreSQL-57606A?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="22">
 <img src="https://img.shields.io/badge/PostGIS-57606A?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" height="22">
-<img src="https://img.shields.io/badge/.NET-57606A?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" height="22">
-
-**Mobile**
-
-<img src="https://img.shields.io/badge/Android-57606A?style=flat-square&logo=android&logoColor=white" alt="Android" height="22">
-<img src="https://img.shields.io/badge/Jetpack%20Compose-57606A?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" height="22">
 
 ---
 
 ## Software Development Areas
 
+- **Desktop applications** — C# / .NET WinForms: task manager, VAT calculator, currency converter
+- **Android development** — Kotlin and Jetpack Compose apps with background location and REST clients
 - **Backend development** — Go services with Chi, REST endpoints, JWT authentication, WebSocket updates
-- **Full-stack development** — React dashboards built on Go or .NET APIs
 - **API development** — resource design, request validation, device and user tokens
 - **Database design** — relational schemas, SQL migrations, PostGIS geometry and indexes
-- **Android development** — Kotlin and Jetpack Compose apps with background location and REST clients
-- **Desktop applications** — C# / .NET WinForms projects from coursework
+- **Full-stack development** — React dashboards built on Go or .NET APIs
 - **Web development** — responsive HTML, CSS, and JavaScript interfaces
 
 ---
@@ -70,13 +74,13 @@ Git · GitHub · Docker · Docker Compose · Caddy · Gradle · npm
 
 ### [TrackStack](https://github.com/AYMANOULHOUF/trackstack)
 
-Self-hosted fleet and GPS tracking platform. A Go API handles devices and dashboard users, a React + Leaflet interface shows live positions, and a Kotlin app does the tracking on Android. PostgreSQL with PostGIS stores positions and geofences.
+Self-hosted fleet tracking platform. The Android app (Kotlin, Jetpack Compose) reports positions in the background, a Go API stores them in PostgreSQL with PostGIS, and a React + Leaflet dashboard shows the live map.
 
-`Go` `React` `Kotlin` `PostgreSQL` `PostGIS` `Docker`
+`Kotlin` `Go` `React` `PostgreSQL` `PostGIS` `Docker`
 
 ### [BTS Larache Dashboard](https://github.com/AYMANOULHOUF/my-first-project)
 
-A single-page dashboard for my BTS DAI coursework: modules, notes, C# desktop app screenshots, and design work. Built with plain HTML, CSS, and JavaScript.
+A single-page dashboard for my BTS DAI coursework. It showcases three .NET 8 WinForms apps — a todo list, a VAT calculator, and a currency converter — alongside course notes and design work. Built with plain HTML, CSS, and JavaScript.
 
 `HTML` `CSS` `JavaScript` · [Live demo](https://aymanoulhouf.github.io/my-first-project/)
 
