@@ -171,16 +171,16 @@ TrackStack is a self-hosted platform for tracking phones and GPS hardware. It is
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYMANOULHOUF&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Ayman's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYMANOULHOUF&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYMANOULHOUF&theme=tokyonight" alt="Ayman's GitHub profile summary">
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AYMANOULHOUF&theme=tokyonight" alt="Repositories per language">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AYMANOULHOUF&theme=tokyonight" alt="Most used languages by commit">
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AYMANOULHOUF&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak">
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AYMANOULHOUF&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph">
 </div>
 
 ---
