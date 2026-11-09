@@ -1,6 +1,6 @@
 # Ayman Oulhouf
 
-Most of my work is in desktop and mobile apps: C# / .NET WinForms on Windows, and Kotlin with Jetpack Compose on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
+I'm an aspiring software developer based in Larache, Morocco. Most of my work is in desktop and mobile apps: C# / .NET WinForms on Windows, and Kotlin with Jetpack Compose on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
 
 Larache, Morocco · [aymanoulhouf@gmail.com](mailto:aymanoulhouf@gmail.com) · [github.com/AYMANOULHOUF](https://github.com/AYMANOULHOUF)
 
@@ -12,10 +12,13 @@ I came into development through **BTS DAI** (*Développement d'Applications Info
 
 I like the whole path of an application: the data model, the API, the interface, and the build. Most of my projects start as a desktop or Android app and grow a backend when they need one — TrackStack is the clearest example.
 
+I'd rather understand why something works than copy a snippet that happens to compile, so I spend a fair amount of time on fundamentals: data structures, SQL, and how the parts of a system fit together.
+
 - Based in Larache, Morocco
 - Desktop — C# / .NET WinForms
 - Mobile — Kotlin, Jetpack Compose, Android
 - Backend when an app needs it — Go, PostgreSQL, REST APIs
+- Currently learning Java and TypeScript
 - Open to collaboration on desktop, Android, and Go projects
 
 ---
@@ -25,11 +28,15 @@ I like the whole path of an application: the data model, the API, the interface,
 **Languages**
 
 <img src="https://img.shields.io/badge/C%23-57606A?style=flat-square&logo=dotnet&logoColor=white" alt="C#" height="22">
+<img src="https://img.shields.io/badge/Java-57606A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="22">
 <img src="https://img.shields.io/badge/Kotlin-57606A?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" height="22">
 <img src="https://img.shields.io/badge/Go-57606A?style=flat-square&logo=go&logoColor=white" alt="Go" height="22">
 <img src="https://img.shields.io/badge/JavaScript-57606A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="22">
+<img src="https://img.shields.io/badge/TypeScript-57606A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="22">
 <img src="https://img.shields.io/badge/SQL-57606A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22">
 <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-57606A?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS" height="22">
+
+*Java and TypeScript are the two I'm actively learning.*
 
 **Desktop**
 
@@ -61,12 +68,15 @@ I like the whole path of an application: the data model, the API, the interface,
 - **Database design** — relational schemas, SQL migrations, PostGIS geometry and indexes
 - **Full-stack development** — React dashboards built on Go or .NET APIs
 - **Web development** — responsive HTML, CSS, and JavaScript interfaces
+- **Software engineering fundamentals** — data structures, algorithms, and problem solving
 
 ---
 
 ## Tools & Platforms
 
-Git · GitHub · Docker · Docker Compose · Caddy · Gradle · npm
+**Editors & IDEs** — Visual Studio · Visual Studio Code · IntelliJ IDEA · Android Studio
+
+**Build & deploy** — Git · GitHub · Docker · Docker Compose · Caddy · Gradle · npm
 
 ---
 
@@ -94,8 +104,8 @@ A multiple-choice quiz in vanilla JavaScript with instant answer feedback, a liv
 
 ## Currently Learning
 
+- **Java** — OOP and language fundamentals; no production project yet
 - **TypeScript** — types and tooling for larger React codebases
-- **Java** — language fundamentals and OOP practice; no production project yet
 - **Go** — concurrency patterns and cleaner service structure
 - **PostGIS** — spatial indexing and query performance
 
@@ -107,4 +117,4 @@ A multiple-choice quiz in vanilla JavaScript with instant answer feedback, a liv
 - GitHub — [@AYMANOULHOUF](https://github.com/AYMANOULHOUF)
 - Location — Larache, Morocco
 
-The best way to reach me is by email, or by opening an issue on one of my repositories.
+The best way to reach me is by email, or by opening an issue on one of my repositories. This profile is where I keep the projects I build while learning.
