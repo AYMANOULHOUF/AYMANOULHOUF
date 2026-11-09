@@ -1,6 +1,6 @@
 # Ayman Oulhouf
 
-Software developer based in Larache, Morocco. I build full-stack applications — Go and PostgreSQL on the server, React on the web, Kotlin on Android — and I'm currently working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
+Software developer working across backend, web, and Android. Most of my work is Go and PostgreSQL on the server, React on the web, and Kotlin on Android. Right now I'm building [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
 
 Larache, Morocco · [aymanoulhouf@gmail.com](mailto:aymanoulhouf@gmail.com) · [github.com/AYMANOULHOUF](https://github.com/AYMANOULHOUF)
 
@@ -62,7 +62,7 @@ I like the whole path of a feature: designing the schema, writing the API, build
 
 ## Tools & Platforms
 
-Git · GitHub · Docker · Docker Compose · Caddy · Gradle · npm · Linux
+Git · GitHub · Docker · Docker Compose · Caddy · Gradle · npm
 
 ---
 
@@ -90,8 +90,8 @@ A multiple-choice quiz in vanilla JavaScript with instant answer feedback, a liv
 
 ## Currently Learning
 
-- **TypeScript** — adding types to the React side of TrackStack
-- **Java** — language and OOP practice; no production project yet
+- **TypeScript** — types and tooling for larger React codebases
+- **Java** — language fundamentals and OOP practice; no production project yet
 - **Go** — concurrency patterns and cleaner service structure
 - **PostGIS** — spatial indexing and query performance
 
