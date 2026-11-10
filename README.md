@@ -96,7 +96,7 @@ Windows Forms app for adding, editing, deleting and searching invoices, with a r
 
 ### [TrackStack](https://github.com/AYMANOULHOUF/trackstack)
 
-Self-hosted fleet tracking platform. The Android app (Kotlin, Jetpack Compose) reports positions in the background, a Go API stores them in PostgreSQL with PostGIS, and a React + Leaflet dashboard shows the live map.
+Self-hosted fleet tracking platform. The Android app (Kotlin, Jetpack Compose) reports positions in the background, a Go API stores them in PostgreSQL with PostGIS, and a React + Leaflet dashboard shows the live map, trips, geofences, and alerts. Hardware trackers feed the same pipeline through a protocol gateway.
 
 `Kotlin` `Go` `React` `PostgreSQL` `PostGIS` `Docker`
 
