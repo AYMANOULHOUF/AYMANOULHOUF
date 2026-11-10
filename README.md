@@ -82,6 +82,18 @@ I'd rather understand why something works than copy a snippet that happens to co
 
 ## My Projects
 
+### [Helpdesk Desktop App](https://github.com/AYMANOULHOUF/app-local-desktop-helpdesk)
+
+Windows Forms ticket manager: sign-in, ticket list with filters and counters, add/edit/delete, and local JSON storage.
+
+`C#` `WinForms` `.NET 9` `JSON`
+
+### [Invoice Manager](https://github.com/AYMANOULHOUF/gestion-de-factures)
+
+Windows Forms app for adding, editing, deleting and searching invoices, with a running total and French number formatting.
+
+`C#` `WinForms` `.NET 8`
+
 ### [TrackStack](https://github.com/AYMANOULHOUF/trackstack)
 
 Self-hosted fleet tracking platform. The Android app (Kotlin, Jetpack Compose) reports positions in the background, a Go API stores them in PostgreSQL with PostGIS, and a React + Leaflet dashboard shows the live map.
