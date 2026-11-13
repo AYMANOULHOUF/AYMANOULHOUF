@@ -1,6 +1,6 @@
 # Ayman Oulhouf
 
-I'm an aspiring software developer based in Larache, Morocco. Most of my work is in desktop and mobile apps: C# / .NET WinForms on Windows, and Kotlin with Jetpack Compose on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
+I'm an aspiring software developer based in Larache, Morocco. Most of my work is in desktop and mobile apps: C# / .NET WinForms on Windows, and Java (XML layouts) on Android. When an app needs a server, I build that too — usually a Go API with PostgreSQL and a React dashboard. Right now I'm working on [TrackStack](https://github.com/AYMANOULHOUF/trackstack), a self-hosted fleet tracking platform.
 
 Larache, Morocco · [aymanoulhouf@gmail.com](mailto:aymanoulhouf@gmail.com) · [github.com/AYMANOULHOUF](https://github.com/AYMANOULHOUF)
 
@@ -16,9 +16,9 @@ I'd rather understand why something works than copy a snippet that happens to co
 
 - Based in Larache, Morocco
 - Desktop — C# / .NET WinForms
-- Mobile — Kotlin, Jetpack Compose, Android
+- Mobile — Java, XML layouts, Android
 - Backend when an app needs it — Go, PostgreSQL, REST APIs
-- Currently learning Java and TypeScript
+- Currently learning TypeScript
 - Open to collaboration on desktop, Android, and Go projects
 
 ---
@@ -36,7 +36,7 @@ I'd rather understand why something works than copy a snippet that happens to co
 <img src="https://img.shields.io/badge/SQL-57606A?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22">
 <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-57606A?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS" height="22">
 
-*Java and TypeScript are the two I'm actively learning.*
+*TypeScript is the language I'm actively learning now.*
 
 **Desktop**
 
@@ -45,7 +45,6 @@ I'd rather understand why something works than copy a snippet that happens to co
 **Mobile**
 
 <img src="https://img.shields.io/badge/Android-57606A?style=flat-square&logo=android&logoColor=white" alt="Android" height="22">
-<img src="https://img.shields.io/badge/Jetpack%20Compose-57606A?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" height="22">
 
 **Web**
 
@@ -62,7 +61,7 @@ I'd rather understand why something works than copy a snippet that happens to co
 ## Software Development Areas
 
 - **Desktop applications** — C# / .NET WinForms: task manager, VAT calculator, currency converter
-- **Android development** — Kotlin and Jetpack Compose apps with background location and REST clients
+- **Android development** — Java and XML-layout apps with background location and REST clients
 - **Backend development** — Go services with Chi, REST endpoints, JWT authentication, WebSocket updates
 - **API development** — resource design, request validation, device and user tokens
 - **Database design** — relational schemas, SQL migrations, PostGIS geometry and indexes
@@ -96,9 +95,9 @@ Windows Forms app for adding, editing, deleting and searching invoices, with a r
 
 ### [TrackStack](https://github.com/AYMANOULHOUF/trackstack)
 
-Self-hosted fleet tracking platform. The Android app (Kotlin, Jetpack Compose) reports positions in the background, a Go API stores them in PostgreSQL with PostGIS, and a React + Leaflet dashboard shows the live map, trips, geofences, and alerts. Hardware trackers feed the same pipeline through a protocol gateway.
+Self-hosted fleet tracking platform. The Android app (Java, XML layouts) reports positions in the background, a Go API stores them in PostgreSQL with PostGIS, and a React + Leaflet dashboard shows the live map, trips, geofences, and alerts. Hardware trackers feed the same pipeline through a protocol gateway.
 
-`Kotlin` `Go` `React` `PostgreSQL` `PostGIS` `Docker`
+`Java` `Go` `React` `PostgreSQL` `PostGIS` `Docker`
 
 ### [BTS Larache Dashboard](https://github.com/AYMANOULHOUF/my-first-project)
 
@@ -116,10 +115,10 @@ A multiple-choice quiz in vanilla JavaScript with instant answer feedback, a liv
 
 ## Currently Learning
 
-- **Java** — OOP and language fundamentals; no production project yet
 - **TypeScript** — types and tooling for larger React codebases
 - **Go** — concurrency patterns and cleaner service structure
 - **PostGIS** — spatial indexing and query performance
+- **Android** — Java, foreground services, and location APIs in practice (TrackStack)
 
 ---
 
